@@ -4,6 +4,8 @@ http://pavan.vc/killer-queen-black-sound-board/
 
 Open up index.html with your browser to use this sound board
 
+Run `node ./build-api.js` to generate a new static JSON endpoint file
+
 ideas
 ---
 
